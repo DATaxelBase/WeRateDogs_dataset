@@ -34,4 +34,3 @@ The rating impacts the favorite count. This last grows expontentially when the r
 ## Key Insights for Presentation
 
 For the presentation, I focused on the more rated dogs and the preferences of audience. I tried to filter out how ratings are distributed in dataset and also how dog stages impact the favorite count and retweet count.
-# WeRateDogs_dataset
